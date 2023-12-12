@@ -6,7 +6,7 @@ This GitHub repo includes code examples for the DocuSign Admin API, Click API, e
 
 If none of the API types are set to `true`, the DocuSign eSignature REST API code examples will be shown. If multiple API types are set to `true`, only the first will be shown.
 
-
+ 
 ## Introduction
 This repo is a PHP application that supports the following authentication workflows: 
 
