@@ -22,7 +22,7 @@ The [PHP OAuth 2.0 Client package](http://oauth2-client.thephpleague.com/) is us
 The OAuth library is used in the file [index.php](./public/index.php).
 
 ## eSignature API
-
+  
 For more information about the scopes used for obtaining authorization to use the eSignature API, see [Required scopes](https://developers.docusign.com/docs/esign-rest-api/esign101/auth#required-scopes).  
 
 For a list of code examples that use the eSignature API, see the [How-to guides overview](https://developers.docusign.com/docs/esign-rest-api/how-to/) on the DocuSign Developer Center.
